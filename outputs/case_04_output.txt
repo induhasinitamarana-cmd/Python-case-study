@@ -1,0 +1,3 @@
+Current attendance: 65.0 %
+Additional consecutive classes to attend: 16
+Attendance after recovery: 75.0 %

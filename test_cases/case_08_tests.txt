@@ -1,0 +1,9 @@
+Test 1: Input/condition: Matrix in program
+Expected result: Asha total 245; Bharat 198; Charan 145; Asha is top student
+Status: Pass
+Test 2: Input/condition: Subject averages
+Expected result: Python 66.67; Maths 65.33; English 64.00
+Status: Pass
+Test 3: Input/condition: Unequal row length
+Expected result: Invalid marks matrix
+Status: Pass

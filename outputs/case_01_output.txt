@@ -1,0 +1,7 @@
+Month 1 | Units: 80 | Bill: Rs. 190.0
+Month 2 | Units: 110 | Bill: Rs. 270.0
+Month 3 | Units: 160 | Bill: Rs. 420.0
+
+Unusual increases:
+Month 2 bill increased by more than 25%.
+Month 3 bill increased by more than 25%.

@@ -1,0 +1,11 @@
+Test 1: Input/condition: Product records in program
+Expected result: Inventory value Rs. 21,850; Mouse and Monitor flagged
+Status: Pass
+
+Test 2: Input/condition: Quantity equals 5
+Expected result: Not flagged because rule is below 5
+Status: Pass
+
+Test 3: Input/condition: Negative price or quantity
+Expected result: Record is marked invalid
+Status: Pass

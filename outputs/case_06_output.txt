@@ -1,0 +1,8 @@
+SUBJECT-WISE PERFORMANCE TREND
+Mathematics | Previous: 65 | Latest: 78 | Improved by 13
+Physics | Previous: 72 | Latest: 68 | Declined by 4
+Programming | Previous: 58 | Latest: 74 | Improved by 16
+English | Previous: 80 | Latest: 35 | Declined by 45
+Latest average: 63.75
+Weak subjects: ['English']
+Classification: Good

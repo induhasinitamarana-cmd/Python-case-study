@@ -1,0 +1,9 @@
+Test 1: Input/condition: Transactions in program
+Expected result: Accepted 3; rejected 2; closing balance Rs. 5,000
+Status: Pass
+Test 2: Input/condition: Withdraw more than balance
+Expected result: Transaction rejected; balance unchanged
+Status: Pass
+Test 3: Input/condition: Negative amount
+Expected result: Transaction rejected
+Status: Pass

@@ -1,0 +1,10 @@
+flowchart TD
+    A([Start]) --> B[Read or define sample data]
+    B --> C{Input and records valid?}
+    C -->|Yes| D[Process data using loops and calculations]
+    C -->|No| E[Display validation message]
+    D --> F[Apply conditions and business rules]
+    F --> G[Calculate results and summaries]
+    G --> H[Display report]
+    E --> H
+    H --> I([End])

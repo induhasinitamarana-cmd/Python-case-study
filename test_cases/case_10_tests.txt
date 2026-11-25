@@ -1,0 +1,9 @@
+Test 1: Input/condition: Participant and finance data in program
+Expected result: 4 unique registrations; duplicate REG102; registration income Rs. 1,200; sponsorship Rs. 8,000; expenses Rs. 11,000; balance -Rs. 1,800
+Status: Pass
+Test 2: Input/condition: No duplicate IDs
+Expected result: Duplicate list displays None
+Status: Pass
+Test 3: Input/condition: Income exceeds expenses
+Expected result: Result displays Surplus
+Status: Pass

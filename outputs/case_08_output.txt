@@ -1,0 +1,11 @@
+STUDENT-WISE RESULTS
+Asha | Total: 245 | Average: 81.67
+Bharat | Total: 198 | Average: 66.0
+Charan | Total: 145 | Average: 48.33
+
+SUBJECT-WISE AVERAGES
+Python : 66.67
+Maths : 65.33
+English : 64.0
+
+Top student: Asha with 245 marks

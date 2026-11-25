@@ -1,0 +1,7 @@
+Test 1: Input/condition: Basic Rs. 25,000; 6 overtime hours; incentive Rs. 2,000
+Expected result: Gross Rs. 35,400; deduction Rs. 1,040; net Rs. 34,360
+Status: Pass
+
+Test 2: Input/condition: Basic Rs. 15,000; 0 hours; no incentive
+Expected result: Gross Rs. 19,500; deduction Rs. 0; net Rs. 19,500
+Status: Pass

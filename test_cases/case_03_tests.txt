@@ -1,0 +1,7 @@
+Test 1: Input/condition: Basket in program
+Expected result: Subtotal Rs. 2,460; discount Rs. 246; tax Rs. 204.20; total Rs. 2,418.20
+Status: Pass
+
+Test 2: Input/condition: Subtotal below Rs. 2,000
+Expected result: Discount is Rs. 0
+Status: Pass

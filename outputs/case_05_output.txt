@@ -1,0 +1,10 @@
+Accepted deposit: 1500.0 | Balance: 6500.0
+Accepted withdrawal: 2000.0 | Balance: 4500.0
+Rejected withdrawal: 6000.0 - insufficient balance
+Accepted deposit: 500.0 | Balance: 5000.0
+Rejected: WITHDRAW -100.0 - amount must be positive
+
+TRANSACTION SUMMARY
+Accepted: 3
+Rejected: 2
+Closing balance: Rs. 5000.0

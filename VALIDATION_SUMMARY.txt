@@ -1,0 +1,17 @@
+{
+  "programs": 10,
+  "all_programs_executed_without_runtime_errors": true,
+  "execution_method": "Python interpreter with site initialization disabled to avoid unrelated host startup hooks",
+  "program_return_codes": {
+    "case_01.py": 0,
+    "case_02.py": 0,
+    "case_03.py": 0,
+    "case_04.py": 0,
+    "case_05.py": 0,
+    "case_06.py": 0,
+    "case_07.py": 0,
+    "case_08.py": 0,
+    "case_09.py": 0,
+    "case_10.py": 0
+  }
+}

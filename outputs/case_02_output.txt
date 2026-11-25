@@ -1,0 +1,9 @@
+EMPLOYEE SALARY STATEMENT
+Basic Pay       : Rs. 25000.0
+HRA             : Rs. 5000.0
+Travel Allowance: Rs. 2500.0
+Overtime Pay    : Rs. 900
+Incentive       : Rs. 2000.0
+Gross Salary    : Rs. 35400.0
+Deduction       : Rs. 1040.0
+Net Salary      : Rs. 34360.0

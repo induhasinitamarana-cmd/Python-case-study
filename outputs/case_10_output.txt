@@ -1,0 +1,9 @@
+CAMPUS FESTIVAL FINANCIAL AUDIT
+Unique registrations: 4
+Duplicate IDs: ['REG102']
+Registration income: Rs. 1200.0
+Sponsorship total   : Rs. 8000.0
+Total income        : Rs. 9200.0
+Total expenses      : Rs. 11000.0
+Final balance       : Rs. -1800.0
+Result: Financial shortfall

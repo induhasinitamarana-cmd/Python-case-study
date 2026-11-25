@@ -1,0 +1,7 @@
+PRODUCT CATALOGUE AUDIT
+P101 Keyboard | Price: 750.0 | Quantity: 8 | Value: 6000.0
+P102 Mouse | Price: 350.0 | Quantity: 3 | Value: 1050.0
+P103 Monitor | Price: 6500.0 | Quantity: 2 | Value: 13000.0
+P104 USB Cable | Price: 150.0 | Quantity: 12 | Value: 1800.0
+Total inventory value: Rs. 21850.0
+Products requiring replenishment: ['Mouse', 'Monitor']

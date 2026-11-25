@@ -1,0 +1,9 @@
+Test 1: Input/condition: Marks in program
+Expected result: Average 63.75; English flagged weak; classification Good
+Status: Pass
+Test 2: Input/condition: Equal previous and latest marks
+Expected result: Trend reports No change
+Status: Pass
+Test 3: Input/condition: Mismatched list lengths
+Expected result: Invalid data message
+Status: Pass

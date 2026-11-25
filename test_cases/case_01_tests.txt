@@ -1,0 +1,11 @@
+Test 1: Input/condition: 80 units
+Expected result: Rs. 190.00 after rebate
+Status: Pass
+
+Test 2: Input/condition: 110 units
+Expected result: Rs. 270.00
+Status: Pass
+
+Test 3: Input/condition: 160 units
+Expected result: Rs. 420.00
+Status: Pass

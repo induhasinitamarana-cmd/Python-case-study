@@ -1,0 +1,9 @@
+Test 1: Input/condition: 26 attended out of 40
+Expected result: Current 65%; attend 16 more classes to reach 75%
+Status: Pass
+Test 2: Input/condition: 30 attended out of 40
+Expected result: Current 75%; 0 additional classes
+Status: Pass
+Test 3: Input/condition: Attended exceeds conducted
+Expected result: Invalid attendance data
+Status: Pass

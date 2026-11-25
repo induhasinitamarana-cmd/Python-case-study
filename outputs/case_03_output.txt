@@ -1,0 +1,8 @@
+ITEMIZED RETAIL INVOICE
+Notebook | 10 x Rs. 80.0 | Amount: Rs. 800.0 | Tax: Rs. 96.0
+Rice Bag | 2 x Rs. 650.0 | Amount: Rs. 1300.0 | Tax: Rs. 65.0
+Pen Pack | 3 x Rs. 120.0 | Amount: Rs. 360.0 | Tax: Rs. 43.2
+Subtotal     : Rs. 2460.0
+Discount     : Rs. 246.0
+Total Tax    : Rs. 204.2
+Grand Total  : Rs. 2418.2

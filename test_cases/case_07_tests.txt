@@ -1,0 +1,9 @@
+Test 1: Input/condition: Size 7
+Expected result: Centered hollow diamond with 7 rows
+Status: Pass
+Test 2: Input/condition: Size 1
+Expected result: One star printed
+Status: Pass
+Test 3: Input/condition: Size 6
+Expected result: Invalid-size message
+Status: Pass
